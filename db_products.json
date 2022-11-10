@@ -1,0 +1,14 @@
+{
+    "plants":
+    [
+        {"pid": 1, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 3, "pic":"https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-plants-nephrolepis-exaltata-teddy-junior-green-plant-16969044885644_600x600.jpg?v=1634224874" },
+        {"pid": 2, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 2, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU" },
+        {"pid": 3, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 5, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  },
+        {"pid": 4, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 4, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  },
+        {"pid": 5, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 2, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  },
+        {"pid": 6, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 1, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  },
+        {"pid": 7, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 5, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  },
+        {"pid": 8, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 3, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  },
+        {"pid": 9, "pname":"Monstera","price":450, "Habitat": "Evergreen", "Rating": 5, "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhk3L5L8Ie60kbRsFGyIGyyFG7Q-FBBYhiA&usqp=CAU"  }
+    ]
+}
